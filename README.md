@@ -35,9 +35,10 @@
    * Explain why it's essential for new engineers (in your own words)
 
 **Answer:** 
-*TYPE_YOUR_ANSWER_HERE*
+First is git init, because this's the first commands we learned, it opening our door of git commands, it is the fundamental first step in transforming a local folder into a professional, trackable project.
 
+Second is git status, it displays the state of working directory and the staging area, showing which changes have been staged and which haven't. It's importent, it ensures that no files are missing or accidentally included
 2. After one and a half years in the ISNE program, what advice would you give to prospective ISNE students? (Minimum 50 words)
 
 **Answer:** 
-*TYPE_YOUR_ANSWER_HERE*
+After studying in ISNE for two semesters, I recommend that new students do not just reading slides, the importent things is practical, like mastering tools like Git and Linux early will save you a lot of time when you start building complex systems or coding in C++. Stay curious, and don't be afraid to break things in your terminal, that's how you truly learn
